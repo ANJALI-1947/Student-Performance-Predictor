@@ -8,7 +8,7 @@ Student Performance Predictor is a Machine Learning web application that predict
 
 ## Application Screenshot
 
-![Student Performance Predictor](images/screenshot.png)
+![Student Performance Predictor](images/home.png)
 
 ---
 
