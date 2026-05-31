@@ -6,14 +6,9 @@ Student Performance Predictor is a Machine Learning web application that predict
 
 ---
 
-## Application Screenshots
+## Application Screenshot
 
-### Home Page
-
-![Home Page](images/home.png)
-
-
-> Replace the image names above with your actual screenshot filenames if they are different.
+![Student Performance Predictor](images/screenshot.png)
 
 ---
 
@@ -69,4 +64,105 @@ The project uses the Student Performance Dataset containing:
 
 ## Machine Learning Workflow
 
-1.
+1. Data Collection
+2. Data Exploration
+3. Data Preprocessing
+4. Feature Encoding
+5. Feature Selection
+6. Train-Test Split
+7. Linear Regression Model Training
+8. Model Evaluation
+9. Model Saving using Pickle
+10. Flask Integration
+
+---
+
+## Model Performance
+
+| Metric | Score |
+|----------|----------|
+| Mean Absolute Error (MAE) | 4.19 |
+| R² Score | 0.88 |
+
+---
+
+## Project Structure
+
+StudentPerformancePredictor/
+
+├── data/
+
+├── model/
+
+├── static/
+
+├── templates/
+
+├── images/
+
+├── train.py
+
+├── app.py
+
+├── requirements.txt
+
+└── README.md
+
+---
+
+## Installation and Setup
+
+### Clone Repository
+
+```bash
+git clone <repository-url>
+cd StudentPerformancePredictor
+```
+
+### Create Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### Activate Virtual Environment
+
+```bash
+venv\Scripts\activate
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run Application
+
+```bash
+python app.py
+```
+
+Open:
+
+```text
+http://127.0.0.1:5000
+```
+
+---
+
+## Learning Outcomes
+
+- Data preprocessing
+- Feature engineering
+- Machine Learning model training
+- Model evaluation
+- Flask web development
+- Git and GitHub workflow
+- End-to-end ML application development
+
+---
+
+## Author
+
+**Anjali Kumari**
