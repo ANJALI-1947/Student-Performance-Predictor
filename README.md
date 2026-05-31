@@ -12,9 +12,6 @@ Student Performance Predictor is a Machine Learning web application that predict
 
 ![Home Page](images/home.png)
 
-### Prediction Result
-
-![Prediction Result](images/result.png)
 
 > Replace the image names above with your actual screenshot filenames if they are different.
 
